@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/faceback"/>
+    <item android:drawable="@mipmap/user"
+        android:left="8dp"
+        android:right="8dp"
+        android:top="33dp"
+        android:bottom="6dp"
+        android:id="@+id/user_image"/>
+</layer-list>
